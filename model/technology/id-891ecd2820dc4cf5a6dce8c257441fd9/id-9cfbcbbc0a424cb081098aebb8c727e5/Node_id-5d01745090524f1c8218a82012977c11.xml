@@ -1,0 +1,9 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="{ComponetneLogico} - {DNS} - {HostName} - {IP}"
+    id="id-5d01745090524f1c8218a82012977c11">
+  <properties
+      key="IP"/>
+  <profiles
+      href="folder.xml#id-d133ee176cc848a3bceac2b9e2fee18e"/>
+</archimate:Node>
