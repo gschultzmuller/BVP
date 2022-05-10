@@ -1,0 +1,10 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Servidor A"
+    id="id-07229b195913438dabcddfc4f6248673">
+  <properties
+      key="IP"
+      value="10.10.10.01"/>
+  <profiles
+      href="folder.xml#id-6925ec32c7514d98a17e5be76381623a"/>
+</archimate:Node>

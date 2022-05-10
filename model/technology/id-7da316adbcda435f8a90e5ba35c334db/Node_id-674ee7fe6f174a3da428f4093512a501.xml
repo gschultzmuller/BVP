@@ -1,0 +1,9 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LB001 - {DNS} - LBLX001 - {IP}"
+    id="id-674ee7fe6f174a3da428f4093512a501">
+  <properties
+      key="IP"/>
+  <profiles
+      href="folder.xml#id-8cc44320ebdd47f0a43bf72776f2bf01"/>
+</archimate:Node>
