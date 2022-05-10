@@ -1,0 +1,36 @@
+<archimate:ArchimateModel
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CAP"
+    id="id-dc51670e590342f09aa9617a29e8c0e3"
+    version="4.9.0">
+  <profiles
+      name="Servidor "
+      id="id-6925ec32c7514d98a17e5be76381623a"
+      imagePath="images/_XF73kM48EeyHP99xb4yZcQ.png"
+      conceptType="Node"/>
+  <profiles
+      name="Gateway / Proxy "
+      id="id-d133ee176cc848a3bceac2b9e2fee18e"
+      imagePath="images/_bsnHwM48EeyHP99xb4yZcQ.png"
+      conceptType="Node"/>
+  <profiles
+      name="Estação de trabalho"
+      id="id-ac9ed24f28fe4a55ae789e2a3163f032"
+      imagePath="images/_5f5XMM81Eey8wpYvAWc2bQ.png"
+      conceptType="Device"/>
+  <profiles
+      name="Balanceador"
+      id="id-8cc44320ebdd47f0a43bf72776f2bf01"
+      imagePath="images/_mSJeAM83Eey8wpYvAWc2bQ.png"
+      conceptType="Node"/>
+  <profiles
+      name="URL"
+      id="id-66d325259fd047b482e2e4e5b3c67273"
+      imagePath="images/_tQbCQM84Eey8wpYvAWc2bQ.png"
+      conceptType="Path"/>
+  <profiles
+      name="Mobile"
+      id="id-80f673d3a7584122acdd859b15f576f7"
+      imagePath="images/_pOVQYM85Eey8wpYvAWc2bQ.png"
+      conceptType="Device"/>
+</archimate:ArchimateModel>

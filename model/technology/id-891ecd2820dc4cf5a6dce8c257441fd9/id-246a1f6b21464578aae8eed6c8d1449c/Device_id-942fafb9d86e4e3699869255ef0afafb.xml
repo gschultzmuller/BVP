@@ -1,0 +1,7 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="{Dispositivo} - {Aplicação} - {Ator}"
+    id="id-942fafb9d86e4e3699869255ef0afafb">
+  <profiles
+      href="folder.xml#id-ac9ed24f28fe4a55ae789e2a3163f032"/>
+</archimate:Device>
