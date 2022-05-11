@@ -1,0 +1,393 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="1-DSV TU"
+    id="id-543e1cdadf8a49cd80a1cc5842180ca1">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-abbbaf4948034b68abb54f1986213e43"
+      lineColor="#808080"
+      textAlignment="1"
+      fillColor="#ffffff"
+      borderType="1">
+    <bounds
+        x="12"
+        y="12"
+        width="1345"
+        height="745"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-6926846d524c4947b6746b06903b357c"
+      fontColor="#000071"
+      lineColor="#c0c0c0"
+      textAlignment="1"
+      fillColor="#ffffff"
+      borderType="1">
+    <bounds
+        x="24"
+        y="23"
+        width="1321"
+        height="63"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-b73a6559e277465ea7a624ef7dfb0339"
+      fontColor="#000071"
+      lineColor="#ffffff"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="Arquiteto Contratado:&#xD;&#xA;Arquiteto Responsável:&#xD;&#xA;Versão:"
+      borderType="1">
+    <bounds
+        x="576"
+        y="24"
+        width="517"
+        height="61"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-d4dcbe15ce974635914b8e003d5a390b"
+      fontColor="#000071"
+      lineColor="#ffffff"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="Projeto:&#xD;&#xA;Data de Criação:&#xD;&#xA;Data última Edição:"
+      borderType="1">
+    <bounds
+        x="36"
+        y="24"
+        width="541"
+        height="61"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-ef026038a77a4074bb5f3fc62f207396"
+      font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      lineColor="#c0c0c0"
+      textAlignment="1"
+      fillColor="#fbfdff"
+      content="Internet"
+      borderType="1">
+    <bounds
+        x="24"
+        y="96"
+        width="1321"
+        height="601"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-95994695419e43699314e88c44638d67"
+      font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      lineColor="#c0c0c0"
+      fillColor="#fbfbfb"
+      content="Link Dedicado"
+      borderType="1">
+    <bounds
+        x="528"
+        y="120"
+        width="109"
+        height="565"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-9e1cca67340f44748c76ed23cbdbe4b1"
+      font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      lineColor="#c0c0c0"
+      textAlignment="1"
+      fillColor="#f9ffff"
+      content="Bradesco Seguros"
+      borderType="1">
+    <bounds
+        x="144"
+        y="120"
+        width="397"
+        height="565"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-c955bb9ae209461fb0147f10402c8972"
+      font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      lineColor="#c0c0c0"
+      textAlignment="1"
+      fillColor="#fff9fc"
+      content="Banco Bradesco"
+      borderType="1">
+    <bounds
+        x="624"
+        y="120"
+        width="601"
+        height="565"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-bfe2124caf1d4840ae95af1748f9eb87"
+      font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      lineColor="#c0c0c0"
+      fillColor="#ffffff"
+      content="Interno (Corp)"
+      borderType="1">
+    <bounds
+        x="1080"
+        y="150"
+        width="133"
+        height="523"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-555f72635cf9484b958b28fb7c652bb1"
+      font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      lineColor="#c0c0c0"
+      fillColor="#ffffff"
+      content="Interno (5800)"
+      borderType="1">
+    <bounds
+        x="312"
+        y="150"
+        width="217"
+        height="523"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-7221be75b4344cb7b7e4b3873d46c0a4"
+      font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      lineColor="#c0c0c0"
+      fillColor="#ffffff"
+      content="bradseg.com.br"
+      borderType="1">
+    <bounds
+        x="312"
+        y="168"
+        width="217"
+        height="505"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-0c6990e231dd49159705379fb58c3d63"
+      font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      lineColor="#c0c0c0"
+      textAlignment="1"
+      fillColor="#fbfdff"
+      content="Externos"
+      borderType="1">
+    <bounds
+        x="1236"
+        y="120"
+        width="109"
+        height="565"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-d3b1d82739db42d1b59c596d1794774e"
+      font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      lineColor="#c0c0c0"
+      fillColor="#ffffff"
+      content="Usuários"
+      borderType="1">
+    <bounds
+        x="1236"
+        y="144"
+        width="109"
+        height="253"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-c28f717d739b43c299e2d14e73468842"
+      font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      lineColor="#c0c0c0"
+      fillColor="#ffffff"
+      content="Parceiros"
+      borderType="1">
+    <bounds
+        x="1236"
+        y="408"
+        width="109"
+        height="265"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-da165ec1b31e410fb409359afd5d5d8e"
+      font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      lineColor="#c0c0c0"
+      textAlignment="1"
+      fillColor="#fbfdff"
+      content="Externos"
+      borderType="1">
+    <bounds
+        x="24"
+        y="120"
+        width="109"
+        height="565"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-e1cbf52ebe614e7589e29096c2afb683"
+      font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      lineColor="#c0c0c0"
+      fillColor="#ffffff"
+      content="Usuários"
+      borderType="1">
+    <bounds
+        x="24"
+        y="144"
+        width="109"
+        height="253"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-7f4aeabc1e77431e98b7b72c9206d866"
+      font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      lineColor="#c0c0c0"
+      fillColor="#ffffff"
+      content="Parceiros"
+      borderType="1">
+    <bounds
+        x="24"
+        y="408"
+        width="109"
+        height="265"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-79511f1df99c44d9b5be716f3f6f7337"
+      font="1|Segoe UI|14.25|0|WINDOWS|1|-19|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#800000"
+      lineColor="#800000"
+      fillColor="#ffffff"
+      content="DSV TU"
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="1152"
+        y="36"
+        width="157"
+        height="37"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-73239beeb3e84ee8a61b886aecd0531b"
+      fontColor="#0000ff"
+      lineColor="#c0c0c0"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="Classificação da Informação:&#xD;&#xA;Este documento foi classificado pelo 4816 – Departamento de Arquitetura de TI e o acesso está autorizado, exclusivamente, aos Funcionários da Organização."
+      borderType="1">
+    <bounds
+        x="24"
+        y="708"
+        width="1321"
+        height="37"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-b5001f5bc2ae403f9f90da4636fe62d8"
+      font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      lineColor="#c0c0c0"
+      fillColor="#ffffff"
+      content="DMZ (Acesso Internet)"
+      borderType="1">
+    <bounds
+        x="636"
+        y="150"
+        width="433"
+        height="523"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-721ffc70936d4846b0aa52c2c0c7faa1"
+      font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      lineColor="#c0c0c0"
+      fillColor="#ffffff"
+      content="Empresas"
+      borderType="1">
+    <bounds
+        x="948"
+        y="168"
+        width="121"
+        height="505"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-c00bbdc4c60d4fef89bfae4997a0e15b"
+      font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      lineColor="#c0c0c0"
+      fillColor="#ffffff"
+      content="Pessoa Jurídica"
+      borderType="1">
+    <bounds
+        x="840"
+        y="168"
+        width="121"
+        height="505"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-ee8eef8c21db462fa08d275a450be769"
+      font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      lineColor="#c0c0c0"
+      fillColor="#ffffff"
+      content="corp.bradesco.com.br"
+      borderType="1">
+    <bounds
+        x="1080"
+        y="168"
+        width="133"
+        height="505"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-ad4fad4fe2554bf7982edc57ba2172fd"
+      font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      lineColor="#c0c0c0"
+      fillColor="#ffffff"
+      content="Pessoa Física"
+      borderType="1">
+    <bounds
+        x="732"
+        y="168"
+        width="121"
+        height="505"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-5cdbb0011f9c4c14a501ea5daed0799e"
+      font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      lineColor="#c0c0c0"
+      fillColor="#ffffff"
+      content="DMZ (Acesso Internet)"
+      borderType="1">
+    <bounds
+        x="156"
+        y="150"
+        width="145"
+        height="523"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-ad92679124254b799e3679f1aa554a03"
+      font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      lineColor="#c0c0c0"
+      fillColor="#ffffff"
+      content="Serviços Corporativos"
+      borderType="1">
+    <bounds
+        x="636"
+        y="168"
+        width="109"
+        height="505"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-36fb4b10dd844bb691e43aecf26f8b35"
+      font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      lineColor="#c0c0c0"
+      fillColor="#ffffff"
+      content="bradescoseguros.com.br"
+      borderType="1">
+    <bounds
+        x="156"
+        y="168"
+        width="145"
+        height="505"/>
+  </children>
+</archimate:ArchimateDiagramModel>
