@@ -1,6 +1,6 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="{Nome}"
+    name="{Hostname}"
     id="id-6b36bf960e384d62a3b892e8df79691b">
   <properties
       key="IP"/>

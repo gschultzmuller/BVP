@@ -10,7 +10,7 @@
       fillColor="#c0c0c0"
       borderType="1">
     <bounds
-        x="12"
+        x="36"
         y="12"
         width="265"
         height="1309"/>
@@ -22,7 +22,7 @@
       content="Balanceador"
       borderType="1">
     <bounds
-        x="23"
+        x="47"
         y="96"
         width="124"
         height="145"/>
@@ -36,7 +36,7 @@
       textPosition="1"
       borderType="1">
     <bounds
-        x="23"
+        x="47"
         y="24"
         width="244"
         height="49"/>
@@ -48,7 +48,7 @@
       content="Gateway / Proxy"
       borderType="1">
     <bounds
-        x="145"
+        x="169"
         y="96"
         width="124"
         height="145"/>
@@ -70,7 +70,7 @@
         name="labelExpression"
         value="Componente Lógico&#xD;&#xA;DNS&#xD;&#xA;HOSTNAME&#xD;&#xA;IP"/>
     <bounds
-        x="157"
+        x="181"
         y="122"
         width="100"
         height="107"/>
@@ -87,7 +87,7 @@
       textPosition="1"
       borderType="1">
     <bounds
-        x="23"
+        x="47"
         y="67"
         width="244"
         height="23"/>
@@ -99,7 +99,7 @@
       content="Estação de trabalho"
       borderType="1">
     <bounds
-        x="23"
+        x="47"
         y="240"
         width="124"
         height="145"/>
@@ -111,7 +111,7 @@
       content="Mobile"
       borderType="1">
     <bounds
-        x="145"
+        x="169"
         y="240"
         width="124"
         height="145"/>
@@ -123,7 +123,7 @@
       content="URL"
       borderType="1">
     <bounds
-        x="23"
+        x="47"
         y="384"
         width="124"
         height="186"/>
@@ -135,7 +135,7 @@
       content="Servidor"
       borderType="1">
     <bounds
-        x="145"
+        x="169"
         y="384"
         width="124"
         height="186"/>
@@ -147,7 +147,7 @@
       content="Container"
       borderType="1">
     <bounds
-        x="23"
+        x="47"
         y="569"
         width="124"
         height="186"/>
@@ -159,7 +159,7 @@
       content="Mainframe"
       borderType="1">
     <bounds
-        x="145"
+        x="169"
         y="569"
         width="124"
         height="186"/>
@@ -178,7 +178,7 @@
         name="labelExpression"
         value="Função&#xD;&#xA;HOSTNAME&#xD;&#xA;IP&#xD;&#xA;SO + Versão&#xD;&#xA;SW + Versão&#xD;&#xA;Aplicação"/>
     <bounds
-        x="157"
+        x="181"
         y="405"
         width="100"
         height="143"/>
@@ -201,7 +201,7 @@
         name="labelExpression"
         value="Dispositivo&#xD;&#xA;Aplicação&#xD;&#xA;Ator"/>
     <bounds
-        x="33"
+        x="57"
         y="264"
         width="103"
         height="97"/>
@@ -219,7 +219,7 @@
       textPosition="1"
       imagePosition="3">
     <bounds
-        x="54"
+        x="78"
         y="405"
         width="61"
         height="24"/>
@@ -237,7 +237,7 @@
         name="labelExpression"
         value="Mainframe&#xD;&#xA;{Hostname}&#xD;&#xA;{IP}"/>
     <bounds
-        x="152"
+        x="176"
         y="589"
         width="109"
         height="145"/>
@@ -262,7 +262,7 @@
         name="labelExpression"
         value="Load Balance&#xD;&#xA;DNS&#xD;&#xA;HOSTNAME&#xD;&#xA;IP"/>
     <bounds
-        x="35"
+        x="59"
         y="122"
         width="100"
         height="83"/>
@@ -284,7 +284,7 @@
         name="labelExpression"
         value="Dispositivo&#xD;&#xA;Aplicação&#xD;&#xA;Ator"/>
     <bounds
-        x="155"
+        x="179"
         y="264"
         width="103"
         height="97"/>
